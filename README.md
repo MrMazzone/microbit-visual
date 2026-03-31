@@ -43,6 +43,8 @@ The SVG board is designed match the real Micro:bit v2 layout, including the LSM3
 
 It is not perfect, but with more time it could be refined to be a closer match.
 
+In the future, it would be worth having two separate SVG diagrams, one for the front of the board and one for the back, so components more closely match the physical Micro:bit's appearance.
+
 ---
 
 ## Running Locally
