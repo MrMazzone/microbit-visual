@@ -4,7 +4,7 @@ An interactive, single-page web app that lets students explore the hardware comp
 
 Built for the **Hello World Technical Curriculum Developer skills task** — Option 3: Build a short interactive web experience.
 
-Try the live web app here: 
+Try the live web app here: https://mrmazzone.github.io/microbit-visual/
 
 ---
 
